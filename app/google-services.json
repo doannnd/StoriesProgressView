@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "854732586445",
+    "firebase_url": "https://storiesprogressview-10d43.firebaseio.com",
+    "project_id": "storiesprogressview-10d43",
+    "storage_bucket": "storiesprogressview-10d43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854732586445:android:64d8d3b75517558c",
+        "android_client_info": {
+          "package_name": "com.nguyendinhdoan.storiesprogressview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854732586445-42sdemlvfhocsj9hi6gha3t0v1nd8ri6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nguyendinhdoan.storiesprogressview",
+            "certificate_hash": "78185f79a90aa325b63e6c0311f97f1fd882dde0"
+          }
+        },
+        {
+          "client_id": "854732586445-4eubih4i083dqlj07h9h76rvifis3j18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC509vy1NbTkjfNex0B59Xm2q_QluCE1UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854732586445-4eubih4i083dqlj07h9h76rvifis3j18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

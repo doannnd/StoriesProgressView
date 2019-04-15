@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StoriesProgressView</string>
+    <string name="image">image</string>
+    <string name="load_button_text">Load</string>
+</resources>
